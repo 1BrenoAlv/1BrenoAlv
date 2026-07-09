@@ -1,33 +1,79 @@
-# 👋 Olá, eu sou o Breno!
+<!-- BANNER TOPO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Breno%20Alves&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descAlignY=58&descSize=20&animation=fadeIn" />
+
+<!-- TEXTO DIGITANDO -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=650&lines=Transformando+ideias+em+c%C3%B3digo;Desenvolvedor+Full+Stack;Buscando+desafios+e+crescimento" alt="Typing SVG" />
+  </a>
+</div>
 
 <br>
 
-## 👨‍💻 Sobre Mim
+<!-- SOBRE MIM -->
+## 🚀 Sobre Mim
+
+- 💻 Desenvolvedor **Full Stack**
+- ⚛️ **Frontend** com React e Vue, **Mobile** com Flutter e **Backend** com C# e .NET
+- ☁️ Trabalhando com **Azure** e soluções em nuvem
+- 🏗️ Foco em criar soluções **robustas e escaláveis**
+- 🌱 Sempre estudando e evoluindo como profissional
+
+<!-- STACK -->
+## 🛠️ Tecnologias & Ferramentas
+
+#### Linguagens
 <p>
-Sou um desenvolvedor apaixonado por tecnologia e por transformar ideias em realidade através do código. Tenho focado meus estudos e projetos no ecossistema .NET e C#, mas também tenho grande interesse em desenvolvimento Frontend com React e em criar soluções robustas e escaláveis.
-<br>
-Atualmente estou buscando oportunidades para colaborar em projetos desafiadores e continuar crescendo como profissional.
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
+#### Frameworks & Bibliotecas
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+#### Cloud & Banco de Dados
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+#### Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+
+
+<!-- CONTATO -->
+## 📫 Vamos Conversar?
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1BrenoAlv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1BrenoAlv&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
+  <a href="mailto:brenoalves.queirozoficial@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  </a>
+  <a href="https://www.linkedin.com/in/brenoalvesdequeiroz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
 </div>
 
-## 🛠️ Tecnologias
-<div align="center">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />   <img width="12" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnet logo"  /> <img width="12" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />   <img width="12" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />   <img width="12" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />   <img width="12" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />   <img width="12" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />   <img width="12" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind css logo" />   <img width="12" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />   <img width="12" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />   <img width="12" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /> <br/>  <img width="12" /> <br/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver logo"  />   <img width="12" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />   <img width="12" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />   <img width="12" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /> </div>
+<br>
 
-## 📫 Contato
+<!-- CONTADOR DE VISITAS -->
 <div align="center">
-  <a href="mailto:brenoalves.queirozoficial@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/brenoalvesdequeiroz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=1BrenoAlv&label=Visitas+no+perfil&color=2575fc&style=flat" alt="profile views" />
 </div>
 
----
-
-<img src="https://raw.githubusercontent.com/1BrenoAlv/1BrenoAlv/output/snake.svg" alt="Snake animation" />
+<!-- BANNER RODAPÉ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" />
